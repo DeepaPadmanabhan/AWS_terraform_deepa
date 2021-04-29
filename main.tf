@@ -10,3 +10,4 @@ resource "aws_instance" "vminstanceaws-deepa" {
     tags = {
       Name = "WEB-demo"
     }
+  }
